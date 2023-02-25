@@ -1,0 +1,12 @@
+.bread-crumbs a {
+    text-decoration: none;
+    color: rgb(5, 39, 78);
+}
+
+.bread-crumbs a:visited {
+    color: inherit;
+}
+
+.bread-crumbs a:hover {
+    color: rgb(8, 60, 119);
+}
